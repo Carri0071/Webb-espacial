@@ -1,0 +1,83 @@
+head{
+    text-decoration-color: white;
+}
+body{
+    background-color: #3D3E41;
+    background-image: url("images/Black\ Friday\ Background\ -\ Free\ video\ on\ Pixabay.jpeg");
+    background-position: right top;
+    font-family: 
+}
+
+
+.eclipse{
+    height: 400px;
+    width: 400px;
+    margin-left: 650px;
+
+}
+
+.titlewebb{
+    font-size: 100px
+    text-center
+
+}
+.titlewebb{
+    color: white;
+    font-style: unset;
+    font-size: 90px;
+    text-align: center;
+    font-family: 'Bungee Spice', cursive;
+}
+
+.anclas {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Bungee Spice', cursive;
+
+}
+.title-astrobiologia{
+ font-size: 40px; 
+ color:white;
+ font-family: 'Bungee Spice', cursive;
+}
+
+.title-origen{
+    font-size: 40px;
+    font-family: 'Bungee Spice', cursive;
+}
+.estrellas{
+    font-size: 40px;
+    
+    font-family: 'Bungee Spice', cursive;
+}
+
+.parrafos {
+    color: white;
+    text-align: justify;
+    color: #EC9232;
+    font-size: 15px;
+ }
+
+.Top{
+    font-family: 'Bungee Spice', cursive;
+    font-size: 20px;
+    margin-top: -340px;
+}
+
+.Topp{
+    color:#EC9232
+}
+
+.espaciales{
+    font-family: 'Bungee Spice', cursive;
+    font-size: 20px;
+}
+
+.pespaciales{
+    color: #EC9232;
+}
+
+.pregunta{
+    color: #EC9232;
+}
