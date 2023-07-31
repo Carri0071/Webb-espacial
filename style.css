@@ -10,9 +10,9 @@ body{
 
 
 .eclipse{
-    height: 400px;
-    width: 400px;
-    margin-left: 650px;
+    height: 450px;
+    width: 450px;
+    margin-left: 750px;
 
 }
 
@@ -56,13 +56,13 @@ body{
     color: white;
     text-align: justify;
     color: #EC9232;
-    font-size: 15px;
+    font-size: 20px;
  }
 
 .Top{
     font-family: 'Bungee Spice', cursive;
-    font-size: 20px;
-    margin-top: -340px;
+    font-size: 30px;
+    margin-top: -389px;
 }
 
 .Topp{
@@ -71,7 +71,7 @@ body{
 
 .espaciales{
     font-family: 'Bungee Spice', cursive;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 .pespaciales{
